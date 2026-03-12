@@ -2,9 +2,9 @@
 This is one of the project in Udacity-_Deploy-Static-Website-on-AWS.
 
 ## Link of site 
-The CloudFront domain URL -> https://dg2srbe4u92g0.cloudfront.net/
+The CloudFront domain URL -> [https://dg2srbe4u92g0.cloudfront.net/](https://d2dobs4ltjt062.cloudfront.net/)
 
-The Website-Endpoint URL -> http://travel-blog-aas.s3-website-ap-southeast-2.amazonaws.com
+The Website-Endpoint URL -> [http://travel-blog-aas.s3-website-ap-southeast-2.amazonaws.com](http://my-1129-2080-4149-bucket.s3-website.eu-north-1.amazonaws.com/)
 ## Project Overview
 
 In this project, you will deploy a static website to AWS using S3, CloudFront, and IAM.
